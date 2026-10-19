@@ -3,6 +3,7 @@ import { StickyCallBar } from './components/StickyCallBar'
 import { AboutSection } from './sections/AboutSection'
 import { AreaShowcase } from './sections/AreaShowcase'
 import { Contact } from './sections/Contact'
+import { CyOperationsSection } from './sections/CyOperationsSection'
 import { CtaBand } from './sections/CtaBand'
 import { Footer } from './sections/Footer'
 import { Hero } from './sections/Hero'
@@ -22,6 +23,7 @@ function App() {
         <StatsStrip />
         <AboutSection />
         <Services />
+        <CyOperationsSection />
         <WhyAdao />
         <ProcessSection />
         <AreaShowcase />

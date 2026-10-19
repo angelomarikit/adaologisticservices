@@ -7,6 +7,7 @@ import { BrandLogo } from './BrandLogo'
 const links = [
   { href: '#about', label: 'About' },
   { href: '#services', label: 'Services' },
+  { href: '#cy-operations', label: 'CY offer' },
   { href: '#areas', label: 'Gallery' },
   { href: '#process', label: 'Process' },
   { href: '#legal', label: 'Legal' },

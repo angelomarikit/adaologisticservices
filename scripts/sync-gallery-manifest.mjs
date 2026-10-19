@@ -35,6 +35,11 @@ const categoryMeta = {
     description:
       'Operations along the Marilao NLEX service road — yard access, equipment on standby, and space to work safely.',
   },
+  'cy-operations': {
+    title: '24/7 CY operation',
+    description:
+      'Container yard (CY) operation around the clock with standby crane and forklift for lift on/off of empty or loaded units and safekeeping.',
+  },
 }
 
 async function listImages(dir) {

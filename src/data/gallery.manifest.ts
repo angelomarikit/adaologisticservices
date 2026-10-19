@@ -78,5 +78,15 @@ export const galleryCategories: GalleryCategory[] = [
       "/gallery/facility/852110966_1908201690549701_6616920507626302637_n.webp",
       "/gallery/facility/854229162_954887317240406_6866018834215705484_n.webp"
     ]
+  },
+  {
+    "slug": "cy-operations",
+    "title": "24/7 CY operation",
+    "description": "Container yard (CY) operation around the clock with standby crane and forklift for lift on/off of empty or loaded units and safekeeping.",
+    "images": [
+      "/gallery/cy-operations/cy-offer-1.png",
+      "/gallery/cy-operations/cy-offer-2.png",
+      "/gallery/cy-operations/cy-offer-3.png"
+    ]
   }
 ]
